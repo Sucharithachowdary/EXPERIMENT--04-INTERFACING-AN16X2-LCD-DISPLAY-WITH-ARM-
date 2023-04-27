@@ -211,7 +211,8 @@ int main(void)
 
  
  ## LED ON CONDITION
- ![led onnn](https://user-images.githubusercontent.com/94166007/234931325-9c9ec20f-0e8b-4822-ae07-e7e017975772.png)
+![led on](https://user-images.githubusercontent.com/94166007/234932386-83a936a1-3bec-4430-b8e9-d7505aea9366.png)
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![pdf](https://user-images.githubusercontent.com/94166007/234931338-098b709b-d5fd-4f5f-95fa-3f648e4f6003.png)
