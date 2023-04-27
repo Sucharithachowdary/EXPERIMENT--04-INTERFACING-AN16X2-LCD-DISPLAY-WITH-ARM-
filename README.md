@@ -207,15 +207,15 @@ int main(void)
 
 ## Output screen shots of proteus  :
  ## LED OFF CONDITION
- ![led off](https://user-images.githubusercontent.com/94166007/234931309-db956681-e30d-4ee2-b594-e4870dd4d5c1.png)
-
  
+ ![led onn](https://user-images.githubusercontent.com/94166007/234933828-c91b3bca-0ca3-40eb-a9c4-f5a8dbaaa65a.png)
+
  ## LED ON CONDITION
 ![led on](https://user-images.githubusercontent.com/94166007/234932386-83a936a1-3bec-4430-b8e9-d7505aea9366.png)
 
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![pdf](https://user-images.githubusercontent.com/94166007/234931338-098b709b-d5fd-4f5f-95fa-3f648e4f6003.png)
+![pdf11](https://user-images.githubusercontent.com/94166007/234933852-cea7dcfa-5da3-44d0-8aa8-3e8dda256d7b.png)
 
  
 ## Result :
